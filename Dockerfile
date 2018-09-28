@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine
 
 MAINTAINER Daniel Wilhelm <shieldwed@outlook.com>
 
